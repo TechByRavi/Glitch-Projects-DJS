@@ -1,0 +1,20 @@
+{
+  "name": "welcomebot",
+  "version": "1.0.0",
+  "description": "A Welcome bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ravi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.2",
+    "jimp": "^0.9.1",
+    "ms": "^2.1.2",
+    "quick.db": "^7.0.0-b22",
+    "express": "^4.17.1"
+  }
+}
